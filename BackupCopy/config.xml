@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <entry>
+    <SourcePath>C:\Program Files\Microsoft SQL Server\MSSQL12.MSSQLSERVER\MSSQL\Backup</SourcePath>
+    <TargetPath>\\prometheus\NAS\DB Backups\mercury</TargetPath>
+  </entry>
+</feed>

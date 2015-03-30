@@ -1,0 +1,7 @@
+C:\Users\akclark\Source\Workspaces\BackupCopy\BackupCopy\bin\Debug\BackupCopy.exe.config
+C:\Users\akclark\Source\Workspaces\BackupCopy\BackupCopy\bin\Debug\BackupCopy.exe
+C:\Users\akclark\Source\Workspaces\BackupCopy\BackupCopy\bin\Debug\BackupCopy.pdb
+C:\Users\akclark\Source\Workspaces\BackupCopy\BackupCopy\obj\Debug\BackupCopy.csprojResolveAssemblyReference.cache
+C:\Users\akclark\Source\Workspaces\BackupCopy\BackupCopy\obj\Debug\BackupCopy.exe
+C:\Users\akclark\Source\Workspaces\BackupCopy\BackupCopy\obj\Debug\BackupCopy.pdb
+C:\Users\akclark\Source\Workspaces\BackupCopy\BackupCopy\bin\Debug\config.xml
